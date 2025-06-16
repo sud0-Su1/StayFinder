@@ -1,1 +1,5 @@
+![StayFinder Screenshot](Screenshots/9.png)
 ![StayFinder Screenshot](Screenshots/2.png)
+![StayFinder Screenshot](Screenshots/3.png)
+![StayFinder Screenshot](Screenshots/4.png)
+![StayFinder Screenshot](Screenshots/5.png)
