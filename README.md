@@ -1,1 +1,1 @@
-![StayFinder Screenshot](screenShot/1.png)
+![StayFinder Screenshot](Screenshots/1.png)
